@@ -1,5 +1,5 @@
-# Project 2
-## Hanan Sukenik
+## Assessments From Ed Tech Firm
+### Hanan Sukenik
 ------------------------------
 
 
@@ -14,8 +14,6 @@
 - The project includes several files:
     
     * project-2.ipynb - In this Jupyter Notebook, I will walk through the whole process, specify regarding any code used along the way and summarize my conclusions
-    * spark_history.txt - A text file containing my Spark history
-    * history.txt - A text file containing my command line history
     * docker-compose.yml - A Docker Compose .yml file used for spinning the pipeline
     * assessment-attempts-20180128-121051-nested.json - The actual data file (in json format), containing the assessments
     
